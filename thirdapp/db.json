@@ -1,0 +1,25 @@
+{
+  "booking": [
+    {
+      "id": 3242,
+      "hotel_name": "Hometel Chandigarh",
+      "name": "Yogeshwari Mali",
+      "phone": "9011846774",
+      "cost": "2419"
+    },
+    {
+      "id": 25967,
+      "hotel_name": "Roseate House",
+      "name": "Rakesh Duratkar",
+      "phone": "7856461564",
+      "cost": "8399"
+    },
+    {
+      "id": 71920,
+      "hotel_name": "Rodas - An Ecotel Hotel",
+      "name": "Sharad Patil",
+      "phone": "5496056489",
+      "cost": "4254"
+    }
+  ]
+}
